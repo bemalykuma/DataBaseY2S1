@@ -1,0 +1,2 @@
+INSERT INTO LAB_EMP(ID, LAST_NAME, FIRST_NAME, USERID, SALARY)
+VALUES (2, 'Dansk', 'Patty', 'pdansk', 860);
